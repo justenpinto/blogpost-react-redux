@@ -10,7 +10,7 @@ following:
 
 ```
 > git clone https://github.com/justenpinto/blogpost-react-redux.git
-> cd weather-react-redux
+> cd blogpost-react-redux
 > npm install
 > npm start
 ```
